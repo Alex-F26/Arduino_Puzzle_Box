@@ -6,11 +6,11 @@ This code was paried with the Arduino Uno and components to create a puzzle box
 The box is a physical wooden box with slots for keys and opening doors
 
 # Pin Mapping
-Servos: Pin 3 (Servo1) & Pin 2 (Servo2)
-Buttons: Pin 13 (Button 1), Pin 12 (Button 2), Pin 11 (Button 3)
-LEDs: Pins 8, 10, 9 (Blue LEDs - paired with 220 Ohm resistors)
-LEDs: Pins 7, 6 (Green LEDs - paired with 220 Ohm resistors)
-Sensors: A5 (Light Sensor 1), A4 (Light Sensor 2), A3 (Light Sensor 3)
+- Servos: Pin 3 (Servo1) & Pin 2 (Servo2)
+- Buttons: Pin 13 (Button 1), Pin 12 (Button 2), Pin 11 (Button 3)
+- LEDs: Pins 8, 10, 9 (Blue LEDs - paired with 220 Ohm resistors)
+- LEDs: Pins 7, 6 (Green LEDs - paired with 220 Ohm resistors)
+- Sensors: A5 (Light Sensor 1), A4 (Light Sensor 2), A3 (Light Sensor 3)
 
 # Logic
 1. Reset at start: Servos are reset to position "5" (You would have Key 1 at this point)
