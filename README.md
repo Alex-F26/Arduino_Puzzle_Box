@@ -2,8 +2,7 @@
 
 Arduino Sketch that operates an interactive puzzle sequence involving two servos, three buttons, three LEDs and three light sensors.
 
-This code was paried with the Arduino Uno and components to create a puzzle box
-The box is a physical wooden box with slots for keys and opening doors
+This code was paried with the Arduino Uno and components to create a puzzle box. The box is a physical wooden box with slots for keys and opening doors
 
 # Pin Mapping
 - Servos: Pin 3 (Servo1) & Pin 2 (Servo2)
